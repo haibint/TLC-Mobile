@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "TLC App",
+    "description": "Information Sharing for Teaching and Learning Center of Lingnan University",
+    "slug": "tlc_mobile_react_native",
+    "privacy": "public",
+    "sdkVersion": "31.0.0",
+    "platforms": ["ios", "android"],
+    "version": "2.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/tlc-icon_1024.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "hk.edu.ln.tlc"
+    },
+    "android": {
+      "package": "hk.edu.ln.tlc",
+      "permissions": [],
+      "versionCode": 5
+    }
+  }
+}

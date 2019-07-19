@@ -1,0 +1,37 @@
+{
+  "videos": [
+    {"title":"The Uniqueness of Lingnan University" ,
+  "description": "The Uniqueness of Lingnan University",
+  "url": "https://www.youtube.com/watch?v=mpE7FacuO_4",
+  "img": "uniqueness.jpg"},
+  
+  {"title":"The Learning and Teaching Development Programme" ,
+  "description": "Prof. Eugenia NG Mee Wah - The Learning and Teaching Development Programme (LTDP) is a 7-month professional development programme designed to familiarize research postgraduate students and new teachers, who have less than 3 years of teaching experience, with the latest development in tertiary-level pedagogy and best practices.",
+  "url": "https://www.youtube.com/watch?v=fbAxCqreihE",
+  "img": "ltdp.jpg"
+  },
+    {"title":"Academic Exchange Experiences" ,
+  "description": "Academic Exchange Experiences of Lingnan University",
+  "url": "https://www.youtube.com/watch?v=26VojNya0mw",
+  "img": "AcademicExchange.jpg"
+  },
+    {"title":"Opportunities for Research Students" ,
+  "description": "Opportunities for Research Students in Lingnan University",
+  "url": "https://www.youtube.com/watch?v=T6MqDbNai10",
+  "img": "ResearchOpportunities.jpg"
+  },
+    {"title":"Plickers" ,
+  "description": "Professor Jonathan Frome - The students all learn something by talking to each other. I think it is a good way to engage with the class.",
+  "url": "https://www.youtube.com/watch?v=e_KU3JafWc0",
+  "img": "plickers.jpg"
+  },
+    {"title":"Reacting to the Past Pedagogy" ,
+  "description": "Professor Grace CHOU - All liberal arts institutions have in common the goal of producing critical thinkers, people who are able to make informed decisions in wide variety of arenas.",
+  "url": "https://www.youtube.com/watch?v=SWpo8OhdNA0",
+  "img": "ReactingtothePast.jpg"
+  }
+  
+  
+  ]
+ 
+}
